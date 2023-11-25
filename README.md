@@ -21,10 +21,4 @@
 </div>
   </div>
 
-  <div align="left">
-    <h4>Mis Proyectos</h4>
-    
-    
-  </div>
-
-
+  
